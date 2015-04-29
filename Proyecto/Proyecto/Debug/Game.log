@@ -1,0 +1,10 @@
+﻿Compilación iniciada a las 27/04/2015 18:12:02.
+     1>Proyecto "D:\Neymar\trunk\Proyecto\Proyecto\Game.vcxproj" en el nodo 2 (Build destinos).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(357,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>Link:
+         Game.vcxproj -> D:\Neymar\trunk\Proyecto\Proyecto\..\Ejecutable\Game.exe
+     1>Compilación del proyecto terminada "D:\Neymar\trunk\Proyecto\Proyecto\Game.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.03
